@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<title>Whirlpick mark</title>
+<path d="M687 301A274 274 0 1 0 779 575" fill="none" stroke="currentColor" stroke-width="92" stroke-linecap="round"/>
+<path d="M587 384A150 150 0 1 0 659 542" fill="none" stroke="currentColor" stroke-width="68" stroke-linecap="round"/>
+<path d="M736 234Q743 222 754 231L850 313Q862 324 846 331L708 387Q693 393 698 376Z" fill="currentColor"/>
+<circle cx="512" cy="512" r="36" fill="currentColor"/>
+</svg>
